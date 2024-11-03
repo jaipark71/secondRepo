@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This is file4.txt created locally
-New Line is here in file4.txt
-=======
 This is some woodo stuff right here in my main
->>>>>>> newfeature
